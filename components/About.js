@@ -1,3 +1,7 @@
+'use client'
+
+import { motion } from 'framer-motion';
+
 const About = () => {
     const skills = ['JavaScript', 'React', 'Next.js', 'Node.js', 'CSS', 'HTML', 'Git', 'AWS']
 
@@ -29,9 +33,17 @@ const About = () => {
                 <h3 className="text-2xl font-semibold mb-4">Skills</h3>
                 <div className="flex flex-wrap gap-2">
                     {skills.map((skill) => (
-                        <span key={skill} className="bg-[#B8A2E0] text-white px-3 py-1 rounded-full text-sm">
+                        <motion.span
+                            key={skill}
+                            className="bg-[#B8A2E0] dark:bg-[#9F82C9] text-white px-3 py-1 rounded-full text-sm cursor-pointer"
+                            whileHover={{
+                                scale: 1.1,
+                                backgroundColor: "#9F82C9",
+                                transition: {duration: 0.2}
+                            }}
+                        >
                             {skill}
-                        </span>
+                        </motion.span>
                     ))}
                 </div>
             </div>
