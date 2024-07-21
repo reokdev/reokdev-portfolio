@@ -4,7 +4,7 @@
 This is a modern, responsive portfolio website built using Next.js and React. It showcases my skills, projects, and provides a means for potential clients or employers to contact me.
 
 ## Stack
-- **Next.js 13+**: For server-side rendering and routing
+- **Next.js 14+**: For server-side rendering and routing
 - **React**: For building user interfaces
 - **Tailwind CSS**: For styling and responsive design
 - **Framer Motion**: For smooth animations and transitions
