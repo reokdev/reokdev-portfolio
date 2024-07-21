@@ -6,22 +6,22 @@ const About = () => {
             <h2 className="text-3xl font-bold mb-8">Who Am I?</h2>
             <div>
                 <p className="text-lg mb-8">
-                    Hi there! 👋🏼 I'm Rachael, a Front-End Wev Developer based in Lancashire, UK.
+                    Hi there! 👋🏼 I&apos;m Rachael, a Front-End Wev Developer based in Lancashire, UK.
                 </p>
                 <p className="text-lg mb-8">
-                    I'm passionate about creating beautiful, intuitive, and responsive websites that provide exceptional user experiences.
+                    I&apos;m passionate about creating beautiful, intuitive, and responsive websites that provide exceptional user experiences.
                     With a keen eye for design and a love for clean, efficient code, I specialize in translating ideas
                     into fully functional web applications.
                 </p>
                 <p className="text-lg mb-8">
                     My journey in web development began with a fascination for how technology can connect people and
                     ideas. Now, I channel that enthusiasm into crafting digital solutions that make a real impact.
-                    Whether it's building a sleek portfolio site or developing a complex web application, I approach
+                    Whether it&apos;s building a sleek portfolio site or developing a complex web application, I approach
                     each project with creativity and attention to detail.
                 </p>
                 <p className="text-lg mb-8">
-                    When I'm not coding, you can find me exploring the beautiful Lancashire countryside, experimenting
-                    with new web technologies, or contributing to open-source projects. I'm always eager to learn and
+                    When I&apos;m not coding, you can find me exploring the beautiful Lancashire countryside, experimenting
+                    with new web technologies, or contributing to open-source projects. I&apos;m always eager to learn and
                     grow in this ever-evolving field of web development.
                 </p>
             </div>
