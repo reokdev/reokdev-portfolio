@@ -9,7 +9,7 @@ This is a modern, responsive portfolio website built using Next.js and React. It
 - **Tailwind CSS**: For styling and responsive design
 - **Framer Motion**: For smooth animations and transitions
 - **TypeForm**: For the contact form functionality
-- - **AWS Amplify**: For hosting and continuous integration/continuous deployment (CI/CD)
+- **AWS Amplify**: For hosting and continuous integration/continuous deployment (CI/CD)
 
 ### AWS Amplify
 This project is hosted on AWS Amplify, which provides a git-based workflow for continuous deployment and hosting of fullstack serverless web applications. Key benefits include:
