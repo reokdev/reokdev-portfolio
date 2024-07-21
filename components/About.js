@@ -11,7 +11,7 @@ const About = () => {
                 <h2 className="text-3xl font-bold mb-8 text-[#B8A2E0]">Who Am I?</h2>
                 <div>
                     <p className="text-lg mb-8">
-                        Hi there! 👋🏼 I&apos;m Rachael, a Front-End Wev Developer based in Lancashire, UK.
+                        Hi there! 👋🏼 I&apos;m Rachael, a Front-End Web Developer based in Lancashire, UK.
                     </p>
                     <p className="text-lg mb-8">
                         I&apos;m passionate about creating beautiful, intuitive, and responsive websites that provide exceptional user experiences.
